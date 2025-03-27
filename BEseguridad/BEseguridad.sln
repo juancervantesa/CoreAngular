@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEseguridad", "BEseguridad.csproj", "{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F407476-EC33-4C7F-94A1-E3BA40E601D8}
+	EndGlobalSection
+EndGlobal

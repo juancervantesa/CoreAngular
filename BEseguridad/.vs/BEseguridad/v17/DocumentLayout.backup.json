@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\utilidades\\jwtconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:utilidades\\jwtconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\controllers\\amenazascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:controllers\\amenazascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\models\\categoriasamenaza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:models\\categoriasamenaza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:controllers\\recursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|d:\\cursos\\maestria\\modulo1 - web development\\tarea 2\\beseguridad\\models\\seguridadinformaticacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7B8D4-A3B7-426E-8EA9-6C2687BC7948}|BEseguridad.csproj|solutionrelative:models\\seguridadinformaticacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T05:50:50.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtConfigurator.cs",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Utilidades\\JwtConfigurator.cs",
+              "RelativeDocumentMoniker": "Utilidades\\JwtConfigurator.cs",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Utilidades\\JwtConfigurator.cs",
+              "RelativeToolTip": "Utilidades\\JwtConfigurator.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:43:51.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:30:03.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:55:50.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AmenazasController.cs",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\AmenazasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AmenazasController.cs",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\AmenazasController.cs",
+              "RelativeToolTip": "Controllers\\AmenazasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:38:01.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowEQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:34:50.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:35:47.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriasAmenaza.cs",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Models\\CategoriasAmenaza.cs",
+              "RelativeDocumentMoniker": "Models\\CategoriasAmenaza.cs",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Models\\CategoriasAmenaza.cs",
+              "RelativeToolTip": "Models\\CategoriasAmenaza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T04:38:02.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecursosController.cs",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\RecursosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecursosController.cs",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\RecursosController.cs",
+              "RelativeToolTip": "Controllers\\RecursosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:40:54.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticulosController.cs",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T20:39:24.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeguridadInformaticaContext.cs",
+              "DocumentMoniker": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Models\\SeguridadInformaticaContext.cs",
+              "RelativeDocumentMoniker": "Models\\SeguridadInformaticaContext.cs",
+              "ToolTip": "D:\\cursos\\Maestria\\Modulo1 - Web Development\\tarea 2\\BEseguridad\\Models\\SeguridadInformaticaContext.cs",
+              "RelativeToolTip": "Models\\SeguridadInformaticaContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:28:58.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
